@@ -1,9 +1,0 @@
-Romi Rain Vusty Vampire
-
-Colour Balance: -25, -5, 5
-
-Brightness: -10
-Contrast: 10
-Saturation: 70
-Hue: 5
-
